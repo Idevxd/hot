@@ -1,7 +1,7 @@
 {
-  "name": "near-hot-wallet",
+  "name": "hot-near-wallet",
   "version": "1.0.0",
-  "description": "Near hot wallet",
+  "description": "hot near wallet",
   "main": "run.js",
   "type": "module",
   "scripts": {
@@ -19,7 +19,6 @@
   "dependencies": {
     "near-api-js": "^3.0.3",
     "bignumber.js": "^9.1.2",
-    "node-fetch": "^3.3.2",
     "figlet": "^1.5.0"
   }
 }
