@@ -1,3 +1,4 @@
+## jika kalian mendownload file zip untuk termux kemungkinan error karena saya sudah mencobanya ,maka di sarankan untuk git clone langsung di terminalnnya agar saat proses instalasi tidak ada kendala 
 ## untuk mendapatkan key kalian bisa join di tele 
 # hotnearwallet
 lets go
