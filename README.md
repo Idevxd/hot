@@ -18,7 +18,7 @@ HotNearWallet adalah skrip yang dirancang untuk mengelola akun NEAR dan melakuka
 
 ## Fitur
 
-- Klaim otomatis NEAR token.
+- Klaim otomatis HOT token.
 - Mendapatkan saldo akun.
 - Menyimpan kunci pribadi dengan aman.
 - Menangani beberapa akun secara bersamaan.
