@@ -1,6 +1,9 @@
 ## jika kalian mendownload file zip dan menjalankan nya di terminal kemungkinan error karena saya sudah mencobanya ,maka di sarankan untuk git clone langsung di terminalnnya agar saat proses instalasi tidak ada kendala 
+# Hot Near Wallet
+![Screenshot](https://github.com/bactiar291/hotnearwallet/blob/main/ss.png)
+
 ## untuk mendapatkan key kalian bisa join di tele 
-# hotnearwallet
+
 lets go
 penting agar tidak error saat run!!!!
 ## untuk mengisi account.js jangan hapus ed25519: jadi langsung tempel private key kamu di depan ed25519: sebagai contoh =
