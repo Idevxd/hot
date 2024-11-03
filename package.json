@@ -7,7 +7,7 @@
     "start": "node run.js"
   },
   "dependencies": {
-    "near-api-js": "^0.46.0",
+    "near-api-js": "^",
     "bignumber.js": "^9.0.1",
     "figlet": "^1.5.0"
   }
