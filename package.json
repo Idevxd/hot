@@ -1,18 +1,14 @@
 {
-  "name": "near-claim-bot",
+  "name": "hotnearwallet",
   "version": "1.0.0",
-  "description": "A bot to claim rewards on NEAR using near-api-js",
-  "main": "p.js",
+  "main": "run.js",
+  "type": "module",
   "scripts": {
-    "start": "node p.js"
+    "start": "node run.js"
   },
   "dependencies": {
-    "near-api-js": "^0.47.0",
-    "bignumber.js": "^9.1.1",
+    "near-api-js": "^0.46.0",
+    "bignumber.js": "^9.0.1",
     "figlet": "^1.5.0"
-  },
-  "engines": {
-    "node": ">=12.0.0"
-  },
-  "license": "MIT"
+  }
 }
