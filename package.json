@@ -2,7 +2,7 @@
   "name": "near-hot-wallet",
   "version": "1.0.0",
   "description": "Near hot wallet",
-  "main": "claim.js",
+  "main": "run.js",
   "type": "module",
   "scripts": {
     "claim": "node run.js"
