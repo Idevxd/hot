@@ -29,7 +29,7 @@ const rl = readline.createInterface({
 });
 
 
-const ACCESS_KEY = 'xxx1'; 
+const ACCESS_KEY = '111000'; 
 
 
 rl.question('Masukkan kunci akses: ', async (inputKey) => {
