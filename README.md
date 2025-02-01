@@ -4,8 +4,6 @@
 ![Screenshot](https://github.com/bactiar291/hotnearwallet/blob/main/ss.png)
 
 
-! [Screenshot] (https://github.com/bactiar291/hotnearwallet/blob/main/ss.png)
-
 ## to get the key you can join in tele
 
 lets go
