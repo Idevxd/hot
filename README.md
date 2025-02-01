@@ -1,5 +1,9 @@
 ## if you download the zip file and run it in the terminal, it is possible that there will be an error because I have tried it, so it is recommended to git clone directly in the terminal so that there are no obstacles during the installation process
+
 # Hot Near Wallet
+![Screenshot](https://github.com/bactiar291/hotnearwallet/blob/main/ss.png)
+
+
 ! [Screenshot] (https://github.com/bactiar291/hotnearwallet/blob/main/ss.png)
 
 ## to get the key you can join in tele
