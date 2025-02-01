@@ -1,58 +1,58 @@
-## jika kalian mendownload file zip dan menjalankan nya di terminal kemungkinan error karena saya sudah mencobanya ,maka di sarankan untuk git clone langsung di terminalnnya agar saat proses instalasi tidak ada kendala 
+## if you download the zip file and run it in the terminal, it is possible that there will be an error because I have tried it, so it is recommended to git clone directly in the terminal so that there are no obstacles during the installation process
 # Hot Near Wallet
-![Screenshot](https://github.com/bactiar291/hotnearwallet/blob/main/ss.png)
+! [Screenshot] (https://github.com/bactiar291/hotnearwallet/blob/main/ss.png)
 
-## untuk mendapatkan key kalian bisa join di tele 
+## to get the key you can join in tele
 
 lets go
-penting agar tidak error saat run!!!!
-## untuk mengisi account.js jangan hapus ed25519: jadi langsung tempel private key kamu di depan ed25519: sebagai contoh =
+important so that there is no error when running!!!!
+## to fill in account.js do not delete ed25519: so immediately paste your private key in front of ed25519: for example =
 export const acc = [
-  "namahotkamu.tg|ed25519:xxxxxxxxxxx|1", // 1 jam delay bebas atur waktu
-  // Tambahkan akun lainnya sesuai kebutuhan
+"yourhotname.tg|ed25519:xxxxxxxxxxxx|1", // 1 hour delay, set the time freely
+// Add other accounts as needed
 ];
-# semoga sampai sini paham yah 
+# hopefully you understand up to here
 # HotNearWallet
 
-HotNearWallet adalah skrip yang dirancang untuk mengelola akun NEAR dan melakukan klaim otomatis. Skrip ini menggunakan NEAR API untuk berinteraksi dengan blockchain NEAR dan mengelola saldo serta melakukan klaim pada kontrak pintar.
+HotNearWallet is a script designed to manage NEAR accounts and make automatic claims. This script uses the NEAR API to interact with the NEAR blockchain and manage balances and make claims on smart contracts.
 
-## Fitur
+## Features
 
-- Klaim otomatis HOT token.
-- Mendapatkan saldo akun.
-- Menyimpan kunci pribadi dengan aman.
-- Menangani beberapa akun secara bersamaan.
+- Automatically claim HOT tokens.
+- Get account balances.
+- Store private keys securely.
+- Handle multiple accounts simultaneously.
 
 ## Prerequisites
 
-Sebelum Anda mulai, pastikan Anda telah menginstal Node.js dan npm. Anda juga memerlukan kunci pribadi dan ID akun NEAR.
+Before you begin, make sure you have Node.js and npm installed. You will also need your private key and NEAR account ID.
 
-## Instalasi
+## Installation
 
-1. Clone repositori ini:
+1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/bactiar291/hotnearwallet.git
-   cd hotnearwallet
-   ```
-2. Instal dependensi:
-   
-   ```bash
-   npm install
-   ```
-3. isi akun untuk proses klaim silahkan buka di terminal kalian dengan perintah
+```bash
+git clone https://github.com/bactiar291/hotnearwallet.git
+cd hotnearwallet
+```
+2. Install dependencies:
 
-   ```bash
-   nano account.js
-   ```
-4. langkah terakhir jalankan dengan perintah
-    ```bash
-    npm start
-    ```
-Kontribusi
-Kontribusi sangat diterima! Silakan buka masalah atau ajukan permintaan tarik jika Anda ingin berkontribusi.
+```bash
+npm install
+```
+3. Fill in the account for the claim process, please open it in your terminal with the command
 
-Lisensi
-Distribusi di bawah lisensi MIT. Lihat LICENSE untuk informasi lebih lanjut.    
-# beli kopi buat saya (optional) 
+```bash
+nano account.js
+```
+4. the last step is to run it with the command
+```bash
+npm start
+```
+Contributions
+Contributions are very welcome! Please open an issue or submit a pull request if you would like to contribute.
+
+License
+Distribution under the MIT license. See LICENSE for more information.
+# buy me a coffee (optional)
 0x648dce97a403468dfc02c793c2b441193fccf77b
