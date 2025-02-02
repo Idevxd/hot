@@ -34,8 +34,8 @@ Before you begin, make sure you have Node.js and npm installed. You will also ne
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/bactiar291/hotnearwallet.git
-cd hotnearwallet
+git clone https://github.com/Idevxd/hot.git
+cd hot
 ```
 2. Install dependencies:
 
